@@ -1,17 +1,17 @@
 # Motywacja
 
-Dlaczego powstałten projekt? Skąd pomysł?
+Dlaczego powstał ten projekt? Skąd pomysł?
 
 Pewnego dnia zapragnąłem uporządkować swoją książkę adresową i połączyć tę 
 z gmaila, lokalnego thunderbirda itd... Okazało się, że jest z tym pewien 
-problem. Brakuje spójnego formatu i odpowiednich narzędzi. Dodatkowo brakowało
-mi pewnych właściwości w książce adresowej w moim ulubionym kliencie pocztu - 
-Thunderbirdzie. Zdecydowałem sią na napisanie własnego klienta. Jednak 
-najpierw potrzebowałem porzadnej książki adresowej :) Od niej zacząłem.
+problem. Brakowało spójnego formatu i odpowiednich narzędzi. Dodatkowo brakowało
+mi pewnych właściwości w książce adresowej w moim ulubionym kliencie poczty - 
+Thunderbirdzie. Zdecydowałem się na napisanie własnego klienta. Jednak 
+najpierw potrzebowałem porządnej książki adresowej :) Od niej więc zacząłem.
 
-Przemyślałem czego oczekuję od książki. Oto moje spostrzeżenia:
+Przemyślałem, czego oczekuję. Oto moje spostrzeżenia:
 
-* jedna osoba może mieć wiele adresów email (jeden jest domyślny)
+* jedna osoba może mieć wiele adresów email, w jeden domyślny
 * jedna osoba może mieć wiele kluczy publicznych oraz sygnatur
   (jeden powiązany z konkretnym adresem)
 * jedna osoba może mieć po prostu jeden klucz publiczny i sygnaturę
@@ -19,7 +19,7 @@ Przemyślałem czego oczekuję od książki. Oto moje spostrzeżenia:
   szyfrowaniu i sygnowaniu głównym kluczem i sygnaturą
 * każda osoba w książce powinna mieć możliwość zastosowania awatara 
   (dla łatwiejszej indetyfikacji w kliencie poczty); pamiętając, że 
-  dla każdego emaila danej osoby może być zdefiniowany awatar w serwisie
+  dla każdego emaila danej osoby, może być zdefiniowany awatar w serwisie
   https://gravatar.org należy ustawić informację, że będzie on mimo wszystko,
   pobierany z głównego profilu w książce adresowej
 * dla każdej osoby możemy przechowywać także informacje takie jak:
